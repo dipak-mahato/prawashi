@@ -1,0 +1,55 @@
+   .show1,.show2{
+    display: inline-block !important;
+    width: 40%;
+    margin:0px;
+    padding: 0px;
+  }
+  .show1{
+  	width: 80%;
+  	height: 40px;
+  	 
+  	border:1px solid green;
+  	text-decoration: none;
+  	color: white;
+   }
+  .show2{
+  	width:8%;
+  }
+  .cat{
+  	background-color: grey;
+  	width: 100%;
+  	height: 100%;
+  	padding-left: 20px;
+  }
+  #demo{
+  	background-color: lightgrey;
+  	padding-left: 0px;
+  	margin-left: 20px;
+   }
+  hr{
+  	padding: 0px;
+  	margin:0px;
+  }
+  .item{
+  	margin:10px;
+  
+  }
+  .show1:hover .cat{
+  	font-weight: 700;
+  	font-size: 20px;
+  	text-decoration: none;
+  	color:white;
+  	background-color: blue;
+   }
+   .sp1{
+    display: inline-block;
+   }
+#deleteSure{
+  float: right;
+}
+#deleteItem{
+  float: right;
+}
+.listItem{
+  padding-left: 20px;
+}

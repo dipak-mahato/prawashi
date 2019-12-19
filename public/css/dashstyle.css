@@ -1,0 +1,136 @@
+body{
+	width: 100%;
+	padding:0px;
+	 
+ 	height: 1700px;
+ 	padding-left: 25px;
+
+}
+.top1 {
+	
+	height: 90px;
+	background-color: #014693;
+    color:white;
+ 
+    font-family: "Poppins", sans-serif;
+  	 padding:0px;
+  	 margin:0px;
+  	 width: 100%;
+ 
+}
+ .top2{
+ 	margin:0px;
+  	padding:0px;
+ 	height: 35px;
+ 	background-color: #014693; 
+ 
+ }
+ .top2 a{
+ 	color: white;
+ 	float: right;
+ 	display: inline-block;
+ 	margin-right: 10px;
+
+ }
+ .top3{
+ 	width: 100%;
+ 	height: 56px;
+ 	margin-top:-25px;
+ 	background-color: #024692;
+ }
+ .sp{
+ 	color: white;
+
+ }
+ .ee{
+float: left;
+ }
+ .nav2{
+ 	width: 100%;
+  	background-color: #22226d;
+    min-height: 50px;
+ }
+ .second{
+ 	margin-left:15px;
+ 	color: white;
+
+
+ 	margin-right: 60px;
+ }
+ .nav2 a{
+  overflow: hidden;
+ }
+ .nav2 a:hover>.third{
+ text-decoration: underline;
+text-decoration-color: white; 
+ }
+ 
+ .second, .third{
+ 	margin-top: 10px;
+display: inline-block;
+ }
+ .third{
+ 	padding-left: 20px;
+ 	padding-right: 20px;
+ 	margin-left:20px;
+  	margin-right: 40px;
+   	border-right : 1px solid #474790;
+   	color: white;
+    width: 100%;
+    height: 100%
+ }
+ 
+ .list{
+ 	float: right;
+    margin-right: 30px;
+    height: 100%;
+ }
+ .ll a{
+
+ 	margin-right: 30px;
+ 	color:white;
+  	display: inline-block;
+  	height: 100%;
+  	width: 100%;
+  	text-align: center;
+  	text-decoration: none;
+  }
+  
+ .ll{
+ 	background-color: #22226d;
+ 	border:none;
+ 	color:white;
+ 	height: 100%;
+ 	display: inline-block;
+ } 
+ 
+ .numw{
+ 	width: 100%;
+ 	 
+ 	overflow: hidden;
+ 	height: 400px;
+  margin-top: 10px;
+  
+ }
+  
+  .num ul{
+  	display: inline-block;
+  }
+  li{
+ list-style-type: none;
+  }
+  
+  #tab1,#tab2,#tab3{
+  	width: 100%;
+  	padding: 0px;
+  	margin:0px;
+  }
+  .myclass img{
+    margin: auto;
+  
+  }
+  .myclass{
+     display: flex;
+    border: 1px solid green;
+     justify-content: center;
+  }
